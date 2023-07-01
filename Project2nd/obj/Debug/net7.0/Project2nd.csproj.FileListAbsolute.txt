@@ -1,0 +1,15 @@
+/Users/banovsha/Desktop/Project2nd/Project2nd/bin/Debug/net7.0/Project2nd
+/Users/banovsha/Desktop/Project2nd/Project2nd/bin/Debug/net7.0/Project2nd.deps.json
+/Users/banovsha/Desktop/Project2nd/Project2nd/bin/Debug/net7.0/Project2nd.runtimeconfig.json
+/Users/banovsha/Desktop/Project2nd/Project2nd/bin/Debug/net7.0/Project2nd.dll
+/Users/banovsha/Desktop/Project2nd/Project2nd/bin/Debug/net7.0/Project2nd.pdb
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/Project2nd.csproj.AssemblyReference.cache
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/Project2nd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/Project2nd.AssemblyInfoInputs.cache
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/Project2nd.AssemblyInfo.cs
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/Project2nd.csproj.CoreCompileInputs.cache
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/Project2nd.dll
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/refint/Project2nd.dll
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/Project2nd.pdb
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/Project2nd.genruntimeconfig.cache
+/Users/banovsha/Desktop/Project2nd/Project2nd/obj/Debug/net7.0/ref/Project2nd.dll
